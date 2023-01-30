@@ -958,10 +958,10 @@
 				</ProjectViewState.List>
 				<AM.PJShowWellState>0</AM.PJShowWellState>
 				<MZ.Project.ApplicationID>Pro</MZ.Project.ApplicationID>
-				<MZ.BuildVersion.Modified>319 (MC: 264587) - 2023-01-30 오후 3:51:41</MZ.BuildVersion.Modified>
+				<MZ.BuildVersion.Modified>319 (MC: 264587) - 2023-01-30 오후 3:50:13</MZ.BuildVersion.Modified>
 				<MZ.BuildVersion.Created>319 (MC: 264587) - 2022-12-20 오전 11:18:39</MZ.BuildVersion.Created>
 				<MZ.Project.GUID>c9f3cf92-9614-4183-9fa7-5e9e93e4f847</MZ.Project.GUID>
-				<project.settings.lastknowngoodprojectpath>\\?\G:\미사\template\녹\미사.prproj</project.settings.lastknowngoodprojectpath>
+				<project.settings.lastknowngoodprojectpath>\\?\G:\미사\template\녹\project\연중 제5주일.prproj</project.settings.lastknowngoodprojectpath>
 				<MZ.Project.WorkspaceName>Editing</MZ.Project.WorkspaceName>
 				<BE.Prefs.AcceleratedRenderer.LastUsedDisplayName>Mercury Playback Engine Software Only</BE.Prefs.AcceleratedRenderer.LastUsedDisplayName>
 				<BE.Prefs.AcceleratedRenderer.LastUsedIdentifier>00000000-0000-0000-0000-000000000000</BE.Prefs.AcceleratedRenderer.LastUsedIdentifier>
@@ -3111,7 +3111,7 @@
 					<MZ.ComponentChain.ActiveComponentID>5</MZ.ComponentChain.ActiveComponentID>
 				</Properties>
 			</Node>
-			<NextComponentID>9</NextComponentID>
+			<NextComponentID>7</NextComponentID>
 		</ComponentChain>
 		<SeqID>3</SeqID>
 		<DefaultOpacity>true</DefaultOpacity>
@@ -3183,7 +3183,7 @@
 					<MZ.ComponentChain.ActiveComponentID>5</MZ.ComponentChain.ActiveComponentID>
 				</Properties>
 			</Node>
-			<NextComponentID>9</NextComponentID>
+			<NextComponentID>7</NextComponentID>
 		</ComponentChain>
 		<SeqID>3</SeqID>
 		<DefaultOpacity>true</DefaultOpacity>
@@ -3255,7 +3255,7 @@
 					<MZ.ComponentChain.ActiveComponentID>5</MZ.ComponentChain.ActiveComponentID>
 				</Properties>
 			</Node>
-			<NextComponentID>9</NextComponentID>
+			<NextComponentID>7</NextComponentID>
 		</ComponentChain>
 		<SeqID>3</SeqID>
 		<DefaultOpacity>true</DefaultOpacity>
@@ -3327,7 +3327,7 @@
 					<MZ.ComponentChain.ActiveComponentID>5</MZ.ComponentChain.ActiveComponentID>
 				</Properties>
 			</Node>
-			<NextComponentID>9</NextComponentID>
+			<NextComponentID>7</NextComponentID>
 		</ComponentChain>
 		<SeqID>3</SeqID>
 		<DefaultOpacity>true</DefaultOpacity>
@@ -3448,7 +3448,7 @@
 					<MZ.ComponentChain.ActiveComponentID>5</MZ.ComponentChain.ActiveComponentID>
 				</Properties>
 			</Node>
-			<NextComponentID>9</NextComponentID>
+			<NextComponentID>7</NextComponentID>
 		</ComponentChain>
 		<SeqID>3</SeqID>
 		<DefaultOpacity>true</DefaultOpacity>
@@ -3520,7 +3520,7 @@
 					<MZ.ComponentChain.ActiveComponentID>13</MZ.ComponentChain.ActiveComponentID>
 				</Properties>
 			</Node>
-			<NextComponentID>17</NextComponentID>
+			<NextComponentID>15</NextComponentID>
 		</ComponentChain>
 		<SeqID>3</SeqID>
 		<DefaultOpacity>true</DefaultOpacity>
@@ -3592,7 +3592,7 @@
 					<MZ.ComponentChain.ActiveComponentID>13</MZ.ComponentChain.ActiveComponentID>
 				</Properties>
 			</Node>
-			<NextComponentID>17</NextComponentID>
+			<NextComponentID>15</NextComponentID>
 		</ComponentChain>
 		<SeqID>3</SeqID>
 		<DefaultOpacity>true</DefaultOpacity>
@@ -3664,7 +3664,7 @@
 					<MZ.ComponentChain.ActiveComponentID>13</MZ.ComponentChain.ActiveComponentID>
 				</Properties>
 			</Node>
-			<NextComponentID>17</NextComponentID>
+			<NextComponentID>15</NextComponentID>
 		</ComponentChain>
 		<SeqID>3</SeqID>
 		<DefaultOpacity>true</DefaultOpacity>
@@ -3736,7 +3736,7 @@
 					<MZ.ComponentChain.ActiveComponentID>13</MZ.ComponentChain.ActiveComponentID>
 				</Properties>
 			</Node>
-			<NextComponentID>17</NextComponentID>
+			<NextComponentID>15</NextComponentID>
 		</ComponentChain>
 		<SeqID>3</SeqID>
 		<DefaultOpacity>true</DefaultOpacity>
@@ -3808,7 +3808,7 @@
 					<MZ.ComponentChain.ActiveComponentID>13</MZ.ComponentChain.ActiveComponentID>
 				</Properties>
 			</Node>
-			<NextComponentID>17</NextComponentID>
+			<NextComponentID>15</NextComponentID>
 		</ComponentChain>
 		<SeqID>3</SeqID>
 		<DefaultOpacity>true</DefaultOpacity>
@@ -3880,7 +3880,7 @@
 					<MZ.ComponentChain.ActiveComponentID>13</MZ.ComponentChain.ActiveComponentID>
 				</Properties>
 			</Node>
-			<NextComponentID>17</NextComponentID>
+			<NextComponentID>15</NextComponentID>
 		</ComponentChain>
 		<SeqID>3</SeqID>
 		<DefaultOpacity>true</DefaultOpacity>
@@ -3952,7 +3952,7 @@
 					<MZ.ComponentChain.ActiveComponentID>13</MZ.ComponentChain.ActiveComponentID>
 				</Properties>
 			</Node>
-			<NextComponentID>17</NextComponentID>
+			<NextComponentID>15</NextComponentID>
 		</ComponentChain>
 		<SeqID>3</SeqID>
 		<DefaultOpacity>true</DefaultOpacity>
@@ -4024,7 +4024,7 @@
 					<MZ.ComponentChain.ActiveComponentID>13</MZ.ComponentChain.ActiveComponentID>
 				</Properties>
 			</Node>
-			<NextComponentID>17</NextComponentID>
+			<NextComponentID>15</NextComponentID>
 		</ComponentChain>
 		<SeqID>3</SeqID>
 		<DefaultOpacity>true</DefaultOpacity>
@@ -4096,7 +4096,7 @@
 					<MZ.ComponentChain.ActiveComponentID>13</MZ.ComponentChain.ActiveComponentID>
 				</Properties>
 			</Node>
-			<NextComponentID>17</NextComponentID>
+			<NextComponentID>15</NextComponentID>
 		</ComponentChain>
 		<SeqID>3</SeqID>
 		<DefaultOpacity>true</DefaultOpacity>
@@ -4165,10 +4165,10 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>15</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>13</MZ.ComponentChain.ActiveComponentID>
 				</Properties>
 			</Node>
-			<NextComponentID>17</NextComponentID>
+			<NextComponentID>15</NextComponentID>
 		</ComponentChain>
 		<SeqID>3</SeqID>
 		<DefaultOpacity>true</DefaultOpacity>
@@ -4237,10 +4237,10 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>7</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>5</MZ.ComponentChain.ActiveComponentID>
 				</Properties>
 			</Node>
-			<NextComponentID>9</NextComponentID>
+			<NextComponentID>7</NextComponentID>
 		</ComponentChain>
 		<SeqID>3</SeqID>
 		<DefaultOpacity>true</DefaultOpacity>
@@ -4309,10 +4309,10 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>15</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>13</MZ.ComponentChain.ActiveComponentID>
 				</Properties>
 			</Node>
-			<NextComponentID>17</NextComponentID>
+			<NextComponentID>15</NextComponentID>
 		</ComponentChain>
 		<SeqID>3</SeqID>
 		<DefaultOpacity>true</DefaultOpacity>
@@ -4381,10 +4381,10 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>15</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>13</MZ.ComponentChain.ActiveComponentID>
 				</Properties>
 			</Node>
-			<NextComponentID>17</NextComponentID>
+			<NextComponentID>15</NextComponentID>
 		</ComponentChain>
 		<SeqID>3</SeqID>
 		<DefaultOpacity>true</DefaultOpacity>
@@ -4453,10 +4453,10 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>15</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>13</MZ.ComponentChain.ActiveComponentID>
 				</Properties>
 			</Node>
-			<NextComponentID>17</NextComponentID>
+			<NextComponentID>15</NextComponentID>
 		</ComponentChain>
 		<SeqID>3</SeqID>
 		<DefaultOpacity>true</DefaultOpacity>
@@ -4525,10 +4525,10 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>7</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>5</MZ.ComponentChain.ActiveComponentID>
 				</Properties>
 			</Node>
-			<NextComponentID>9</NextComponentID>
+			<NextComponentID>7</NextComponentID>
 		</ComponentChain>
 		<SeqID>3</SeqID>
 		<DefaultOpacity>true</DefaultOpacity>
